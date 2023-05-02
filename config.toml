@@ -85,7 +85,7 @@ weight = 10
 [[menu.main]]
 identifier = "blog" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "https://munozpi.com" 
+url = "https://notes.munozpi.com" 
 weight = 30 
 
 
