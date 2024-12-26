@@ -19,7 +19,7 @@ hero_media = "/img/portrait.jpg"
 
 [[btn]]
 	# The url of the button
-  url = "/files/it-resume.pdf"
+  url = "/files/it-sec-resume.pdf"
 	# The text of the button
   label = "Download Resume"
 	# Primary color
